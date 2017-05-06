@@ -1,0 +1,5 @@
+Производитель <span class="bold_text">Dr Gans</span><br>
+ материал <span>мрамор</span><br> 
+ размер <span>760х510х217мм   D 440 мм</span><br>
+ ширина базы <span>50</span><br>
+ 

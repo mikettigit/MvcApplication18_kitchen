@@ -1,0 +1,5 @@
+Производитель <span class="bold_text">Kuppersberg</span><br>
+ Количество режимов <span>9</span><br> 
+ объём <span>59</span><br>
+
+

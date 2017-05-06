@@ -1,0 +1,4 @@
+Производитель <span class="bold_text">OULIN</span><br>
+ материал <span>нержавеющая сталь</span><br> 
+ размер <span>900х470</span><br>
+  

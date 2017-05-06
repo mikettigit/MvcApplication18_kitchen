@@ -1,0 +1,5 @@
+Производитель <span class="bold_text">Longran</span><br>
+ материал <span>гранит</span><br> 
+ размер <span>860 х 500</span><br>
+ ширина базы <span>90</span><br>
+ 

@@ -1,0 +1,5 @@
+Производитель <span class="bold_text">Ukinox</span><br>
+ материал <span>гранит</span><br> 
+ размер <span>395 х 350 мм</span><br>
+ ширина базы <span>45</span><br>
+ 

@@ -1,0 +1,5 @@
+Производитель <span class="bold_text">Zorg</span><br>
+ материал <span>с покрытием медь/бронза</span><br> 
+ размер <span>D=510</span><br>
+ ширина базы <span>50</span><br>
+ 

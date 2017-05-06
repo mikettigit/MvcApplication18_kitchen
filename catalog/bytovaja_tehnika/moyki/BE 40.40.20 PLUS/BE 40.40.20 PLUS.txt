@@ -1,0 +1,5 @@
+Производитель <span class="bold_text">Teka</span><br>
+ материал <span>нержавеющая сталь</span><br> 
+ размер <span>435,4х435,4мм, чаша 406х406мм</span><br>
+ ширина базы <span>45</span><br>
+ 

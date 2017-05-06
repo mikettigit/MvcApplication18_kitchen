@@ -1,0 +1,5 @@
+Производитель <span class="bold_text">OULIN</span><br>
+ материал <span>нержавеющая сталь</span><br> 
+ размер <span>D 435</span><br>
+ ширина базы <span>45</span><br>
+ 

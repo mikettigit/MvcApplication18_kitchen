@@ -1,0 +1,4 @@
+Производитель <span class="bold_text">Körting</span><br>
+  объём <span>60 л</span><br>
+
+

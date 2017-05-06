@@ -1,0 +1,5 @@
+Производитель <span class="bold_text">Zorg</span><br>
+ материал <span>мойка со стеклом</span><br> 
+ размер <span>800*510</span><br>
+ ширина базы <span>80</span><br>
+ 

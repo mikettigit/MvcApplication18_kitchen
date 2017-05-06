@@ -1,0 +1,4 @@
+Производитель <span class="bold_text">Zigmund & Shtain</span><br>
+  объём <span>56 л</span><br>
+
+

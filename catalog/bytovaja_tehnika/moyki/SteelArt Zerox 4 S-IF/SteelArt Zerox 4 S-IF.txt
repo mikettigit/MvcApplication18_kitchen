@@ -1,0 +1,5 @@
+Производитель <span class="bold_text">Blanco</span><br>
+ материал <span>нержавеющая сталь</span><br> 
+ размер <span>780*510</span><br>
+ ширина базы <span>40</span><br>
+ 

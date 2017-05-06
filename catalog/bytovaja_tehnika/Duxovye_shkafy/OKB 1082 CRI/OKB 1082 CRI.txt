@@ -1,0 +1,5 @@
+Производитель <span class="bold_text">Körting</span><br>
+ Количество режимов <span>9</span><br> 
+ объём <span>60 л</span><br>
+
+

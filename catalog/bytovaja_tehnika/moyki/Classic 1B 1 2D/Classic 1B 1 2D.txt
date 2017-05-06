@@ -1,0 +1,5 @@
+Производитель <span class="bold_text">Teka</span><br>
+ материал <span>нержавеющая сталь</span><br> 
+ размер <span>650х500мм</span><br>
+ ширина базы <span>50</span><br>
+ 

@@ -1,0 +1,5 @@
+Производитель <span class="bold_text">Longran</span><br>
+ материал <span>керамика</span><br> 
+ размер <span>460 х 460 мм</span><br>
+ ширина базы <span>50</span><br>
+ 

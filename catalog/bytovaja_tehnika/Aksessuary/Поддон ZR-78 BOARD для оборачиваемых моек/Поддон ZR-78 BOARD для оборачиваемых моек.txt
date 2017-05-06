@@ -1,0 +1,4 @@
+Производитель <span class="bold_text">Zorg</span><br>
+ Материал <span>нерж.сталь</span><br> 
+
+ 

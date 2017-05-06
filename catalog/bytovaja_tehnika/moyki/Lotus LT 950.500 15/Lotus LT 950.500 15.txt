@@ -1,0 +1,5 @@
+Производитель <span class="bold_text">Longran</span><br>
+ материал <span>нержавеющая сталь</span><br> 
+ размер <span>950 х 500 мм</span><br>
+ ширина базы <span>60</span><br>
+ 

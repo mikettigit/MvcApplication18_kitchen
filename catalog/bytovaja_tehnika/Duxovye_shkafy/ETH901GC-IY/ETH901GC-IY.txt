@@ -1,0 +1,5 @@
+Производитель <span class="bold_text">Midea</span><br>
+ Количество режимов <span>8</span><br> 
+ объём <span>70</span><br>
+
+

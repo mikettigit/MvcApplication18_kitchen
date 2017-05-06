@@ -1,0 +1,4 @@
+Производитель <span class="bold_text">Blanco</span><br>
+ Материал <span>нержавеющая сталь зеркальная</span><br> 
+
+ 

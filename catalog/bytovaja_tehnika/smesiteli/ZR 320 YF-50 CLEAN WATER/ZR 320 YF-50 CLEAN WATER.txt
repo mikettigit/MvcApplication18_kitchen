@@ -1,0 +1,5 @@
+Производитель <span class="bold_text">Zorg</span><br>
+ материал <span>латунь</span><br> 
+ покрытие <span>хром</span><br>
+ тип <span>2 в 1: с подключением фильтра</span><br>
+ 

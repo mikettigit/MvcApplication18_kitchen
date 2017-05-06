@@ -1,0 +1,5 @@
+Производитель <span class="bold_text">Maunfeld</span><br>
+ Количество режимов <span>9</span><br> 
+ объём <span>67 л</span><br>
+
+

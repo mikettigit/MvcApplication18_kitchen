@@ -1,0 +1,3 @@
+страна <span>Россия</span><br> 
+
+ Производитель <span class="bold_text">Ukinox</span><br>

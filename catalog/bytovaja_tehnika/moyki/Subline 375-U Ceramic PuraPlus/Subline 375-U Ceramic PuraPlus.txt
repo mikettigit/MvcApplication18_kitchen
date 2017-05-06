@@ -1,0 +1,5 @@
+Производитель <span class="bold_text">Blanco</span><br>
+ материал <span>керамика</span><br> 
+ размер <span>404x456 мм.</span><br>
+ ширина базы <span>45</span><br>
+ 

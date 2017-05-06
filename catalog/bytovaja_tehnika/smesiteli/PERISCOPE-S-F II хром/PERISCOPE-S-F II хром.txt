@@ -1,0 +1,5 @@
+Производитель <span class="bold_text">Blanco</span><br>
+ материал <span>латунь</span><br> 
+ покрытие <span>хром</span><br>
+ тип <span>для монтажа под окном</span><br>
+ 

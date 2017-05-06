@@ -1,0 +1,5 @@
+Производитель <span class="bold_text">Longran</span><br>
+ материал <span>латунь</span><br> 
+ покрытие <span>гранит</span><br>
+ тип <span>с душем</span><br>
+ 

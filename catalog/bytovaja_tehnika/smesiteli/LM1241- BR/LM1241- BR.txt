@@ -1,0 +1,5 @@
+Производитель <span class="bold_text">Longran</span><br>
+ материал <span>латунь</span><br> 
+ покрытие <span>бронза</span><br>
+ тип <span>без душа</span><br>
+ 

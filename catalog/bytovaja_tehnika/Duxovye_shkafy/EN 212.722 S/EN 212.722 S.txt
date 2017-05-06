@@ -1,0 +1,5 @@
+Производитель <span class="bold_text">Zigmund & Shtain</span><br>
+ Количество режимов <span>7</span><br> 
+ объём <span>59 л</span><br>
+
+

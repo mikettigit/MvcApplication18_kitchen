@@ -1,0 +1,4 @@
+Производитель <span class="bold_text">Blanco</span><br>
+ материал <span>латунь</span><br> 
+  тип <span>без душа</span><br>
+ 

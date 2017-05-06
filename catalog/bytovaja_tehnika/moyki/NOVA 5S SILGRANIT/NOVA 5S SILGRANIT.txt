@@ -1,0 +1,4 @@
+Производитель <span class="bold_text">Blanco</span><br>
+  размер <span>860х500 мм</span><br>
+ ширина базы <span>50</span><br>
+ 

@@ -1,0 +1,3 @@
+производитель <span class="bold_text">Midea</span><br>
+  количество комфорок <span>4</span><br>
+  

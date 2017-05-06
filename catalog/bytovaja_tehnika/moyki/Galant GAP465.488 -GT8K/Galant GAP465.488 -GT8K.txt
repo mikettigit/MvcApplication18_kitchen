@@ -1,0 +1,5 @@
+Производитель <span class="bold_text">Ukinox</span><br>
+ материал <span>нержавеющая сталь</span><br> 
+ размер <span>465 х 488 мм</span><br>
+ ширина базы <span>45</span><br>
+ 

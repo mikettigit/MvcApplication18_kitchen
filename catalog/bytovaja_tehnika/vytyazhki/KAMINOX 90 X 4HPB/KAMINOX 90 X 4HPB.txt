@@ -1,0 +1,4 @@
+Производитель <span class="bold_text">Kuppersberg</span><br>
+ производительность <span>800</span><br>
+
+ 

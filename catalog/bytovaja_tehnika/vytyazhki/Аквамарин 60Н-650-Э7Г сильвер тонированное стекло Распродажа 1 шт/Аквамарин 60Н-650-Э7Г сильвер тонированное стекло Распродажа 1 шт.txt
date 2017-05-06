@@ -1,0 +1,4 @@
+Производитель <span class="bold_text">ELIKOR</span><br>
+ производительность <span>650  м3/час</span><br>
+
+ 

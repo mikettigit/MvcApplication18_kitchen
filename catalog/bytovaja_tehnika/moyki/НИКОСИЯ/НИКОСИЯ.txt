@@ -1,0 +1,5 @@
+Производитель <span class="bold_text">Florentina</span><br>
+ материал <span>гранит</span><br> 
+ размер <span>D=510 vv</span><br>
+ ширина базы <span>45</span><br>
+ 

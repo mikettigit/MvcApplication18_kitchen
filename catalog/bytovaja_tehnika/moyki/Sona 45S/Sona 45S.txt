@@ -1,0 +1,5 @@
+Производитель <span class="bold_text">Blanco</span><br>
+ материал <span>гранит</span><br> 
+ размер <span>780х500</span><br>
+ ширина базы <span>45</span><br>
+ 

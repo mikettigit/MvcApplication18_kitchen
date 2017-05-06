@@ -1,0 +1,7 @@
+производитель <span class="bold_text">Zigmund & Shtain</span><br>
+  количество комфорок <span>4</span><br>
+ тип <span>газ</span><br>
+
+
+
+ 

@@ -1,0 +1,4 @@
+Производитель <span class="bold_text">Longran</span><br>
+ материал <span>гранит</span><br> 
+  ширина базы <span>60</span><br>
+ 

@@ -1,0 +1,4 @@
+Производитель <span class="bold_text">Maunfeld</span><br>
+ производительность <span>600 м3/час</span><br>
+
+ 

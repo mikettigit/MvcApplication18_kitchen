@@ -1,0 +1,4 @@
+Производитель <span class="bold_text">Midea</span><br>
+  объём <span>44 л</span><br>
+
+

@@ -1,0 +1,4 @@
+Производитель <span class="bold_text">Blanco</span><br>
+ материал <span>нержавеющая сталь</span><br> 
+ размер <span>220*440</span><br>
+  

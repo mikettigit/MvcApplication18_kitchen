@@ -1,0 +1,7 @@
+производитель <span class="bold_text">Kuppersberg</span><br>
+  количество комфорок <span>2</span><br>
+ тип <span>газ</span><br>
+
+
+
+ 
